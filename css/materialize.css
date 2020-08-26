@@ -3,6 +3,7 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -3468,7 +3469,7 @@ table span.badge {
 
 .container {
   margin: 0 auto;
-  max-width: 1280px;
+  max-width: 1640px;
   width: 90%;
 }
 
