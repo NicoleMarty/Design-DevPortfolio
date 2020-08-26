@@ -4,12 +4,22 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 
+#intro {
+  z-index: 0;
+  position: relative;
+}
+
 #name {
   padding-top: 15vh;
 }
 
 #title {
   padding-top: 0;
+}
+
+#hero {
+  z-index: -1;
+  position: absolute;
 }
 
 .materialize-red {
@@ -2853,7 +2863,7 @@ video.responsive-video {
 .parallax-container {
   position: relative;
   overflow: hidden;
-  height: 500px;
+  height: 100vh;
 }
 
 .parallax-container .parallax {
