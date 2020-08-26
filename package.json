@@ -1,0 +1,19 @@
+{
+  "name": "design-devportfolio",
+  "version": "1.0.0",
+  "description": "Updated profile to feature both my design and development skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoleMarty/Design-DevPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoleMarty/Design-DevPortfolio/issues"
+  },
+  "homepage": "https://github.com/NicoleMarty/Design-DevPortfolio#readme"
+}
