@@ -11,6 +11,7 @@
 #intro {
   z-index: 0;
   position: relative;
+  min-height: 100vh;
 }
 
 #name {
@@ -19,6 +20,10 @@
 
 #title {
   margin-top: 0;
+}
+
+#about-one {
+  overflow: show;
 }
 
 /*!
