@@ -10,8 +10,7 @@
 
 #intro {
   z-index: 0;
-  position: absolute;
-  min-width: 100vw;
+  position: relative;
 }
 
 #name {
@@ -20,10 +19,6 @@
 
 #title {
   margin-top: 0;
-}
-
-#social {
-  justify-content: baseline;
 }
 
 /*!
@@ -3026,6 +3021,9 @@ ul.staggered-list li {
   padding: 10px 0px;
   color: rgba(255, 255, 255, 0.8);
   background-color: rgba(51, 51, 51, 0.08);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 table,
